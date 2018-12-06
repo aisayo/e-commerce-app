@@ -5,6 +5,6 @@ import ReactDOM from 'react-dom';
 const App = () => { return <div>testing</div> }
 
 ReactDOM.render(
-    <App/>,
+    <App />,
     document.querySelector('#root')
 )
